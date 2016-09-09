@@ -1,0 +1,8 @@
+print("Hi my name is RudeAI")
+print("I'd like to ask you a few questions")
+ID = input("What is your name?")
+print("Wow" , ID, "... You must have such...interesting...parents")
+num1 = int (input("How old are you?"))
+print("Dang..." , num1, "is old... have you started thinking about what your tombstone will say yet?")
+act = input("What do you like to do for fun")
+print("Wow, I used to" , act, "but then I turned 5 and decided I was too old for that")
