@@ -1,0 +1,5 @@
+h = int(input("What is your height in inches?"))
+w = int(input("What is your weight in pounds?"))
+BMI = (703 * w)/(h * h) 
+print("Your BMI is...")
+print(BMI)
