@@ -1,4 +1,4 @@
-print("menu:\n$6.00-Cheeseburger   \t$4.00-Hot Dog\t$12.00-Steak\n$12.00-Babyback Ribs   \t$2.00-Fries    \t$1.00-Coleslaw\n$2.00-Milkshake      \t$1.00-Soda     \t$2.00-Ice Cream")
+print("menu:\n$6.00-Cheeseburger   \t$4.00-Hot Dog\t$12.00-Steak\n$12.00-Babyback Ribs   \t$2.00-Fries    \t$1.00-Coleslaw\n$2.00-Milkshakes     \t$1.00-Soda     \t$2.00-Ice Cream")
 
 
 def format(item, price):
