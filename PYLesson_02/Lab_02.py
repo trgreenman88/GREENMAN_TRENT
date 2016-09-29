@@ -2,15 +2,21 @@ l = 8
 w = 5
 A = l * w
 
-print("The area of your rectangle is", A)
+print(l , "multiplied by" , w , "is" , A)
+
+print("")
 
 name0 = "1234 Fake St,"
-name1 = " San Diego,"
-name2 = " CA,"
+name1 = "San Diego,"
+name2 = "CA"
 name3 = " 92030"
-name4 = "Trent"
+name4 = "Trent Greenman"
 
-print("Hi, my name is", name4 ,"and I live at", name0 + name1 + name2 + name3)
+print(name4)
+print(name0)
+print(name1 + name2 + name3)
+
+print("")
 
 b1 = 5
 b2 = 6
