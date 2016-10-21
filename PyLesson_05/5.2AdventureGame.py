@@ -10,9 +10,6 @@ def Adventure():
         else:
             print("Not quite. Try another path")
             Adventure()
-    else:
-        print("Please enter \"choice1\", \"choice2\", or \"choice3\"")
-        Adventrure()
 Adventure()
 
 
@@ -24,9 +21,6 @@ def SecondStep():
         else:
             print("Not quite. Try another path")
             SecondStep()
-    else:
-        print("Please enter \"choice1\", \"choice2\", or \"choice3\"")
-        SecondStep()
 SecondStep()
 
 def LastStep():
@@ -37,9 +31,6 @@ def LastStep():
         else:
             print("Not quite. Try another path")
             LastStep()
-    else:
-        print("Please enter \"choice1\", \"choice2\", or \"choice3\"")
-        LastStep()
 LastStep()
 
         
