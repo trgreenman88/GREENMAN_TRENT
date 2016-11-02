@@ -2,10 +2,10 @@ print("This will help you to find the sum of each of the digits in a number")
 number = int(input("Please enter a number: "))
 add = 0
 num = number
-def sumDigits():
+def sumDigits(num, add):
     while num > 0:
         add += 1
         num = int(num / 10)
-sumDigits()
+sumDigits(num, add)
 print("The sum of the digits in " , number, " is" , add)
 
