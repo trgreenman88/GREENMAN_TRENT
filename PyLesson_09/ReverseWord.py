@@ -1,20 +1,19 @@
 words = ["happy", "sad", "excited", "angry", "surprised"]
-print(words)
 
 
-
+print("In order...")
+output = ""
 for i in words:
-    print(words[1])
+    output += i + " "
+print(output)
 
 
 
 print("")
 print("Reversed...")
-word = input("Please enter a word: ")
-myList = word.split("")
 output = ""
-for i in myList:
-    output += str((-1) * (i))
+for i in range(len(words)-1, -1, -1):
+    output += words[i] + " "
 print(output)
         
     
