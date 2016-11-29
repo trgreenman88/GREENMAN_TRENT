@@ -1,5 +1,7 @@
-import random
 numbers = []
 for i in range(0, 10):
-    numbers[random.randint(0, 100)]
-print(numbers)
+    import random
+    numbers = str(random.randint(0, 100))
+print(str(numbers[i]))
+
+
