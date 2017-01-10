@@ -10,6 +10,7 @@ class MilesPerHour:
         self.hrs = newhrs
     def setMins(self, newmins):
         self.mins = newmins
+
     def getdistance(self):
         return self.dist
     def gethours(self):
