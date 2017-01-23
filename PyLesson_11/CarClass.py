@@ -44,11 +44,11 @@ class Human:
         self.h = hair
         self.e = eyes
         self.s = skin
-    def setHair(self, h):
+    def setHair(self, newHair):
         self.h = newHair
-    def setEyes(self, e):
+    def setEyes(self, newEyes):
         self.e = newEyes
-    def setSkin(self, s):
+    def setSkin(self, newSkin):
         self.s = newSkin
     def getHair(self):
         return self.h
@@ -56,7 +56,7 @@ class Human:
         return self.e
     def getSkin(self):
         return self.s
-class HumanDriver:
+def main():
     h = input("Please enter hair color: ")
     e = input("Please enter eye color: ")
     s = input("Please enter skin color: ")
@@ -69,9 +69,10 @@ class HumanDriver:
     human1.setHair("Brown")
     human1.setEyes("Brown")
     human1.setSkin("White")
-    print("Hair color: " , human1.getHair())
-    print("Eye color: " , human1.getEyes())
-    print("Skin color: " , human1.getSkin())
+    print("New hair color: " , human1.getHair())
+    print("New eye color: " , human1.getEyes())
+    print("New skin color: " , human1.getSkin())
+main()
     
 
 
