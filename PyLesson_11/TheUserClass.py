@@ -17,6 +17,9 @@ class User:
         return self.avatar
     def getuserID(self):
         return self.userID
+    def __str__(self):
+        return "Customer Info...\n First Name: " + self.firstName + "\n Last Name: " + self.lastName + "\n Avatar: " + self.avatar + "\n User ID#: " + str(self.userID)
+
 
 def main():
     firstName = input("Please enter your first name: ")
@@ -28,8 +31,8 @@ def main():
         avatar = input("Please enter your avatar name: ")
         user1 = User(firstName, lastName, avatar)
 
-    def __str__(self):
-        return "Customer Info...\n First Name: " + self.firstName + "\n Last Name: " + self.lastName + "\n Avatar: " + self.avatar + "\n User ID#: " + str(self.userID)
+    print(user1.__str__())        
+
 main()
         
     
