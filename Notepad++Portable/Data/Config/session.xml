@@ -1,6 +1,9 @@
 <NotepadPlus>
     <Session activeView="0">
-        <mainView activeIndex="0" />
+        <mainView activeIndex="0">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1048" startPos="1000" endPos="1000" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_04\Styling.html" backupFilePath="" originalFileLastModifTimestamp="1487094733" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1368" startPos="1421" endPos="1421" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\Notepad++Portable\WebStuff\index.html" backupFilePath="" originalFileLastModifTimestamp="1487095732" />
+        </mainView>
         <subView activeIndex="0" />
     </Session>
 </NotepadPlus>

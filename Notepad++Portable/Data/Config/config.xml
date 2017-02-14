@@ -5,7 +5,6 @@
         <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_01\MyPage\index.html" />
         <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_01\MyPage\aboutme.html" />
         <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\Notepad++Portable\WebStuff\page 2.html" />
-        <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\Notepad++Portable\WebStuff\index.html" />
         <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\Notepad++Portable\WebStuff\tables.html" />
         <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_02\new 1.html" />
         <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_03\lists.html" />
@@ -19,7 +18,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="354" y="33" width="789" height="1010" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="185" y="52" width="789" height="1010" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">no</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
