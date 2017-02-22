@@ -1,0 +1,44 @@
+<html>
+<head>
+	<style type = "text/css">
+			div > p {
+				color: red;
+				font-size: 30px;
+			}
+			p:nth-child(2){
+				color: orange;
+			}
+			p:nth-child(3){
+				color: yellow;
+			}
+			p:first-letter{
+				font-weight:bold
+				font-size: 30px;
+				color: green;
+			}
+		#green {
+			color: green;
+			border: 2px solid green;
+			position: absolute;
+			top: 180px;
+		}
+		
+		#blue {
+			color: blue;
+			border: 2px solid blue;
+			position: absolute;
+			top: 220px;
+			left: 20px;
+		}
+	</style>
+</head>
+<body>
+	<div id = "green"> This text should be green</div>
+	<div id = "blue"> This text should be blue</div>
+	<div>
+		<p>The cheetah is very fast.</p>
+		<p>The rhino is very strong.</p>
+		<p>The elephant is gigantic.</p>
+	</div>
+</body>
+</html>

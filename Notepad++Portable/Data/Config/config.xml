@@ -2,14 +2,16 @@
 <NotepadPlus>
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="150" dotMatchesNewline="no" />
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_01\MyPage\index.html" />
-        <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_01\MyPage\aboutme.html" />
-        <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\Notepad++Portable\WebStuff\page 2.html" />
-        <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\Notepad++Portable\WebStuff\tables.html" />
-        <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_02\new 1.html" />
-        <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_03\lists.html" />
         <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_03\image as background.html" />
         <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_03\WebLab_03.html" />
+        <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\Notepad++Portable\WebStuff\index.html" />
+        <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_04\Styling.html" />
+        <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_02\CollegeTable.html" />
+        <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_05\WebLab_05.html" />
+        <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\Notepad++Portable\WebStuff\styling like a pro.html" />
+        <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\Notepad++Portable\WebStuff\div.html" />
+        <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\Notepad++Portable\WebStuff\weblesson5.html" />
+        <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\Notepad++Portable\WebStuff\Turbocharging your css.html" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="yes">standard</GUIConfig>
@@ -18,7 +20,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="185" y="52" width="789" height="1010" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="7" y="25" width="789" height="1012" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">no</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
