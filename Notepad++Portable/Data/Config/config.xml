@@ -11,7 +11,6 @@
         <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\Notepad++Portable\WebStuff\styling like a pro.html" />
         <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\Notepad++Portable\WebStuff\div.html" />
         <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\Notepad++Portable\WebStuff\weblesson5.html" />
-        <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\Notepad++Portable\WebStuff\Turbocharging your css.html" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="yes">standard</GUIConfig>
@@ -20,7 +19,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="7" y="25" width="789" height="1012" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="124" y="47" width="789" height="1012" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">no</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
