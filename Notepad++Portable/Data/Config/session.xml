@@ -1,10 +1,9 @@
 <NotepadPlus>
     <Session activeView="0">
-        <mainView activeIndex="3">
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="432" startPos="101" endPos="101" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\Notepad++Portable\WebStuff\Turbocharging your css.html" backupFilePath="" originalFileLastModifTimestamp="1487786891" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="544" startPos="201" endPos="201" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_06\TheRealIndex.html" backupFilePath="" originalFileLastModifTimestamp="1487872235" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="544" startPos="128" endPos="128" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_06\second page.html" backupFilePath="" originalFileLastModifTimestamp="1487872246" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="256" startPos="158" endPos="158" selMode="0" lang="CSS" encoding="-1" filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_06\styles.css" backupFilePath="" originalFileLastModifTimestamp="1487872257" />
+        <mainView activeIndex="2">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="384" startPos="105" endPos="105" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\Notepad++Portable\WebStuff\nepositioning and sizing.html" backupFilePath="" originalFileLastModifTimestamp="1487960413" />
+            <File firstVisibleLine="3" xOffset="0" scrollWidth="934" startPos="750" endPos="750" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\Notepad++Portable\WebStuff\images and stuff.html" backupFilePath="" originalFileLastModifTimestamp="1487960421" />
+            <File firstVisibleLine="62" xOffset="0" scrollWidth="43504" startPos="4123" endPos="4123" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_07\WebLab_07.html" backupFilePath="" originalFileLastModifTimestamp="1488219025" />
         </mainView>
         <subView activeIndex="0" />
     </Session>
