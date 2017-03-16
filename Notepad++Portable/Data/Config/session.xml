@@ -1,9 +1,8 @@
 <NotepadPlus>
     <Session activeView="0">
-        <mainView activeIndex="2">
-            <File firstVisibleLine="2" xOffset="0" scrollWidth="2552" startPos="1615" endPos="1615" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_11\WebLab_11.html" backupFilePath="" originalFileLastModifTimestamp="1488994797" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="2552" startPos="404" endPos="404" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_10\WebLab_10.html" backupFilePath="" originalFileLastModifTimestamp="1489081395" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="378" startPos="536" endPos="536" selMode="0" lang="CSS" encoding="-1" filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_10\mmmain.css" backupFilePath="" originalFileLastModifTimestamp="1489081799" />
+        <mainView activeIndex="0">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="2552" startPos="1853" endPos="1853" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_11\WebLab_11.html" backupFilePath="" originalFileLastModifTimestamp="1489511081" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="366" startPos="543" endPos="543" selMode="0" lang="CSS" encoding="-1" filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_11\mane.css" backupFilePath="" originalFileLastModifTimestamp="1489682762" />
         </mainView>
         <subView activeIndex="0" />
     </Session>
