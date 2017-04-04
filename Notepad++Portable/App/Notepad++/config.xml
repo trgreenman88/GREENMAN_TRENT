@@ -9,9 +9,9 @@
         <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_12\WebLab_12 Practice\index.html" />
         <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_12\WebLab_12 Practice\maan.css" />
         <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_12\WebLab_12 Practice\Weblab_12.html" />
-        <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_12\new 2.css" />
-        <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_12\WebLab_12.html" />
         <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_13\WebLab_13.html" />
+        <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_12\WebLab_12.html" />
+        <File filename="C:\Users\greenmant1728\Desktop\GREENMAN_TRENT\WebLesson_12\new 2.css" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="yes">standard</GUIConfig>
@@ -20,7 +20,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="-8" y="11" width="909" height="1024" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="-41" y="2" width="909" height="1024" isMaximized="no" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">no</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
