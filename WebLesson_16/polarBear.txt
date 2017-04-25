@@ -1,0 +1,12 @@
+function text()
+{
+	var x = document.getElementById("canvas");
+	canvas = x.getContext("2d");
+	
+	var pic = new Image();
+	pic.src = "https://s-media-cache-ak0.pinimg.com/originals/16/9b/d9/169bd9727ec26ea6a7e08f8171f07a7a--munich-germany-baby-polar-bears.jpg";
+	
+	pic.addEventListener("load", function() { canvas.drawImage(pic, 0, 0, 200, 150)}, false);
+}
+
+window.addEventListener("load", text, false);
